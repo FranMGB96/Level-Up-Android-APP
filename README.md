@@ -80,4 +80,4 @@ Proyecto desarrollado con fines académicos como parte de la carrera de Ingenier
 
 ## 👤 Autor
 
-Desarrollado por Franci como parte de su formación en Ingeniería en Informática, mención en Desarrollo de Software.
+Desarrollado por Francisco como parte del ramo Desarrollo de Aplicaciones Móviles, Ingeniería en Informatica.
